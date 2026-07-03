@@ -1,4 +1,3 @@
-Uygulama mağazalarında (App Store / Google Play) ve web sitenizde doğrudan kullanabilirsiniz:
 # VARDİYAM PDKS GİZLİLİK SÖZLEŞMESİ VE POLİTİKASI
 **Yürürlük ve Son Güncelleme Tarihi:** 03.07.2026
 **Vardiyam PDKS** ("Uygulama", "Platform" veya "Biz") olarak, dijital platformlarımız (web sitesi, yönetim paneli, mobil uygulamalar ve bağlı tüm servisler) üzerinden işlenen kişisel verilerinizin gizliliğine ve güvenliğine en üst düzeyde önem veriyoruz.
